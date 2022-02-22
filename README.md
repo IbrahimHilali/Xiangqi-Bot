@@ -1,10 +1,9 @@
 # Xiangqi Bot 
-![build passing](https://raw.githubusercontent.com/dwyl/repo-badges/master/highresPNGs/build-passing.png)
 
 Xiangqi Bot is a Haskell Bot to deal with fen String to produce list of moves or get a move
 
 ## Intro
-- Input fen (https://en.wikipedia.org/wiki/Forsyth–Edwards_Notation) : "rheagaehr/9/1c5c1/s1s1s1s1s/9/9/S1S1S1S1S/1C5C1/9/RHEAGAEHR r"
+- [FEN] (https://en.wikipedia.org/wiki/Forsyth–Edwards_Notation) : "rheagaehr/9/1c5c1/s1s1s1s1s/9/9/S1S1S1S1S/1C5C1/9/RHEAGAEHR r"
 - rows [a..i] 
 - colums [0...9]
 - Move in format of "e2-e9" 
